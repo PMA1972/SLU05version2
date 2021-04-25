@@ -1,0 +1,4 @@
+A new list with the new restaurants to try it
+Restaurant A
+Restaurant B
+Restaurant C
